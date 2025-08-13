@@ -1,3 +1,9 @@
+-=(GBA_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+For GBA2P visit the [GBA2P branch](https://github.com/turri21/GBA_Senhor/tree/GBA2P).
+
 # [Gameboy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 
